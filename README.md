@@ -12,7 +12,11 @@ With our ChatGPT Extension, you can revolutionize your product descriptions, cap
 5. Page Builder Integration
 
 ## How to install Magento 2 ChatGPT
-### Install Social Login via composer (recommend)
+
+### 1. Download and install from Magento Marketplace
+<a href="https://commercemarketplace.adobe.com/ultraplugin-module-chatgpt.html">Magento Marketplace Link</a>
+
+### 2. Install via composer (GitHub)
 Run the following command in Magento 2 root folder:
 
 ```
@@ -22,3 +26,11 @@ php bin/magento setup:di:compile
 php bin/magento setup:static-content:deploy
 ```
 
+## Extension Screenshots
+
+<img src="https://github.com/ultraplugin/module-screenshots/blob/master/chatgpt/1-description-generate.jpg"/>
+<img src="https://github.com/ultraplugin/module-screenshots/blob/master/chatgpt/2-short-description-generate.jpg"/>
+<img src="https://github.com/ultraplugin/module-screenshots/blob/master/chatgpt/3-page-builder.jpg"/>
+<img src="https://github.com/ultraplugin/module-screenshots/blob/master/chatgpt/4-admin-product-attribute.jpg"/>
+<img src="https://github.com/ultraplugin/module-screenshots/blob/master/chatgpt/5-admin-word-count.jpg"/>
+<img src="https://github.com/ultraplugin/module-screenshots/blob/master/chatgpt/6-admin-enable-disable.jpg"/>
