@@ -1,6 +1,6 @@
 {
     "name": "ultraplugin/module-chatgpt",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Magento 2 ChatGPT Generator Extension",
     "type": "magento2-module",
     "require": {
